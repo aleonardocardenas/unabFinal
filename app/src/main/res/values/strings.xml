@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">unabFinal</string>
+
+    <string name="bt_inicio">Iniciar Sesion</string>
+    <string name="bt_registrarme">Registrarme</string>
+    <string name="Noinicio">No  se logro iniciar sesion, verifique nuevamente</string>
+    <string name="ok_no_inicio">Entendido</string>
+
+
+    <!--PERFIL-->
+    <string name="fecha"> -- </string>
+    <string name="uidtxt">Uid: </string>
+    <string name="uidPerfil"> -- </string>
+    <string name="correotxt">Correo: </string>
+    <string name="correoPerfil"> -- </string>
+    <string name="nombretxt">Nombre: </string>
+    <string name="nombrePerfil"> -- </string>
+
+    <!--MENU-->
+    <string name="MisDatosOpcion">Mis Datos</string>
+    <string name="CrearCitaMedicaOpcion">Crear Cita</string>
+    <string name="HistorialOpciones">Historial</string>
+    <string name="UsuariosOpcion">Usuarios</string>
+    <string name="ChatsOpcion">Chats</string>
+    <string name="CerrrarSesion">Salir</string>
+
+    <!--MIS DATOS-->
+    <string name="MisDatostxt">Mis Datos</string>
+    <string name="uiDatotxt">UID: </string>
+    <string name="uiDato"> -- </string>
+    <string name="NombreDatotxt">Nombre: </string>
+    <string name="NombreDato"> -- </string>
+    <string name="CorreoDatotxt">Correo: </string>
+    <string name="CorreoDato"> -- </string>
+    <string name="ContraseñaDatotxt">Contraseña: </string>
+    <string name="ContraseñaDato"> -- </string>
+    <string name="TelefonoDatotxt">Telefono: </string>
+    <string name="TelefonoDato"> -- </string>
+
+    <string name="bt_actualizar">Actualizar Datos</string>
+    <string name="bt_actualizarcontra">Actualizar Contraseña</string>
+
+
+
+</resources>

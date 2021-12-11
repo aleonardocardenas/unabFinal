@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955027313981",
+    "firebase_url": "https://unabfinal2-default-rtdb.firebaseio.com",
+    "project_id": "unabfinal2",
+    "storage_bucket": "unabfinal2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955027313981:android:4ea561cf572c6458e32154",
+        "android_client_info": {
+          "package_name": "com.andrescardenas.unabfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955027313981-l9hmppr64c5vcluo8mjm5b7mtfc1t5n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4R6JJa-uFBn6drgWpAETdV4NSiyvRm7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955027313981-l9hmppr64c5vcluo8mjm5b7mtfc1t5n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
